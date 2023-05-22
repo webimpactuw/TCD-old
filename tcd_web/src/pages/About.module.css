@@ -1,1 +1,21 @@
+.intro {
+    box-sizing: border-box;
 
+    position: absolute;
+    width: 1728px;
+    height: 888px;
+    left: 0px;
+    top: 0px;
+
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)); /* there was a url parameter here */
+}
+
+.gallery {
+    position: absolute;
+    width: 1728px;
+    height: 2203.02px;
+    left: -1px;
+    top: 1380.98px;
+
+    background: linear-gradient(129.32deg, rgba(240, 123, 63, 0.6) -0.6%, rgba(255, 203, 103, 0.6) 12.42%, rgba(244, 177, 141, 0.6) 46.1%, rgba(255, 212, 129, 0.6) 105.39%);
+}
