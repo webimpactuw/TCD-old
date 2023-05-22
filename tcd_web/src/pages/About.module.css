@@ -10,6 +10,94 @@
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)); /* there was a url parameter here */
 }
 
+.introtext {
+    position: absolute;
+    width: 600px;
+    height: 493px;
+    left: 143px;
+    top: 225px;
+
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 136.9%;
+    /* or 131px */
+
+    letter-spacing: -0.03em;
+
+    color: #FFFAF0;
+}
+
+.interest {
+    position: absolute;
+    width: 1728px;
+    height: 493px;
+    left: 0px;
+    top: 780px;
+}
+
+.contact {
+    position: absolute;
+    width: 40%;
+    height: 252px;
+    left: 143px;
+    /* top: 961px; */
+
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 136.9%;
+    /* or 88px */
+
+    letter-spacing: -0.03em;
+
+    color: #FFFAF0;
+}
+
+.btn1 {
+    position: absolute;
+    width: 220.86px;
+    height: 60.63px;
+    left: 889px;
+    /* top: 989px; */
+
+    background: #EE867D;
+    border: 1px solid #FFFAF0;
+    border-radius: 74.1803px;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20.9857px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #FFFAF0;
+}
+
+.btn2 {
+    position: absolute;
+    width: 200.86px;
+    height: 60.63px;
+    left: 1189px;
+    /* top: 1101.62px; */
+
+    background: #EE867D;
+    border: 1px solid #FFFAF0;
+    border-radius: 74.1803px;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20.9857px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #FFFAF0;
+}
+
 .gallery {
     position: absolute;
     width: 1728px;
