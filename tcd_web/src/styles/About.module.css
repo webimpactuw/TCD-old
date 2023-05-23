@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@0;1&display=swap');
+
+.intro {
+    box-sizing: border-box;
+    
+
+    position: absolute;
+    width: 100%;
+    height: 888px;
+    left: 0px;
+    top: 0px;
+
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../../public/about1.png); /* there was a url parameter here */
+    z-index: -1;
+}
+
+.introtext {
+    position: absolute;
+    width: 948px;
+    height: 493px;
+    left: 8.27%;
+    top: 332px;
+
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 87.62px;
+    /* or 131px */
+
+    letter-spacing: -3%;
+
+    color: #FFFAF0;
+}
+
+.interest {
+    position: absolute;
+    width: 100%;
+    height: 493px;
+    left: 0px;
+    top: 888px;
+}
+
+.contact {
+    position: absolute;
+    width: 54.86%; /* width divided by 1728px */
+    height: 252px;
+    left: 8.27%;
+    top: 73px; /* something - 888 */
+
+    font-family: 'Lora';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 136.9%;
+    /* or 88px */
+
+    letter-spacing: -0.03em;
+
+    color: #FFFAF0;
+}
+
+.btn1 {
+    position: absolute;
+    width: 19.26%;
+    height: 80.63px;
+    left: 68.8%;
+    top: 101px; /* 989-888 */
+
+    background: #EE867D;
+    border: 1px solid #FFFAF0;
+    border-radius: 74.1803px;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20.9857px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #FFFAF0;
+}
+
+.btn2 {
+    position: absolute;
+    width: 19.26%;
+    height: 80.63px;
+    left: 68.8%;
+    top: 213.62px; /* 1101.62 - 888 */
+
+    background: #EE867D;
+    border: 1px solid #FFFAF0;
+    border-radius: 74.1803px;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20.9857px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #FFFAF0;
+}
+
+.pictures {
+    position: absolute;
+    width: 100%;
+    height: 2203.02px;
+    left: -1px;
+    top: 1380.98px;
+
+    background: linear-gradient(129.32deg, rgba(240, 123, 63, 0.6) -0.6%, rgba(255, 203, 103, 0.6) 12.42%, rgba(244, 177, 141, 0.6) 46.1%, rgba(255, 212, 129, 0.6) 105.39%);
+}
+
+.gallery {
+    position: absolute;
+    width: 28.3%;
+    height: 65px;
+    left: 29.22%;
+    top: 59.02px;
+
+    font-family: 'Lora';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 136.9%;
+    /* or 88px */
+
+    letter-spacing: -0.04em;
+
+    color: #FFFAF0;
+
+}
+
+.gallerytext {
+    position: absolute;
+    width: 57%;
+    height: 135px;
+    left: 29.57%;
+    top: 162.02px;
+
+    font-family: 'Lora';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 130.4%;
+    /* or 42px */
+
+    letter-spacing: -0.045em;
+
+    color: #FFFAF0;
+
+}
+
+.galleryimage1 {
+
+}
+
+.galleryimage2 {
+
+}
+
+.galleryimage3 {
+
+}
+
+.galleryimage4 {
+
+}
+
+.galleryimage5 {
+
+}
